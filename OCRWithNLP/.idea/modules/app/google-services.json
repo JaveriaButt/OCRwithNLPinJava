@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885079845307",
+    "firebase_url": "https://ocrwithnlp.firebaseio.com",
+    "project_id": "ocrwithnlp",
+    "storage_bucket": "ocrwithnlp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885079845307:android:38571f688f606b188c3c9e",
+        "android_client_info": {
+          "package_name": "com.longlee.ocrwithnlp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885079845307-lu5s5q8813um6h0kujfhcgpv4im8e8t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.longlee.ocrwithnlp",
+            "certificate_hash": "d5bf80c3a181b878f5173fd903a502abf1994445"
+          }
+        },
+        {
+          "client_id": "885079845307-tqhsh8c4m4a8ron3a5rre452l6uav2cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYGvn5QGq3fg_OY6KlPI5pGOB96Q-5B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885079845307-tqhsh8c4m4a8ron3a5rre452l6uav2cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
